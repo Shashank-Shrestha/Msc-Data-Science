@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+streamlit
+pandas
+scikit-learn
+ipython
+ipykernel
+#conda activate cancer
